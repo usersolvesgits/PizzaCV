@@ -1,4 +1,4 @@
-# 📄  TODO 
+# NextCV
 
 ---
 
@@ -39,7 +39,7 @@ You can find more details about the people behind the project in the [👥 Team 
 ## 🛠️ Tech Stack
 | Category | Technologies |
 |----------|--------------|
-| Frontend | NextJS |
+| Frontend | NextJS, TailwindCSS |
 | Backend | FastAPI |
 | Database | MongoDB |
 
