@@ -1,4 +1,4 @@
-<img src="assets/logo1440x1440.jpg" width="50%" alt="Project logo" border-radius="100%"></img>
+<img src="assets/logo1440x1440-README-GitHub" width="50%" alt="Project logo"></img>
 
 ---
 
