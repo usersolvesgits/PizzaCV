@@ -1,4 +1,4 @@
-<img src="Assets/logo.jpeg" width="60%" alt="Project logo"></img>
+<img src="assets/logo1440x1440.jpg" width="50%" alt="Project logo" border-radius="100%"></img>
 
 ---
 
