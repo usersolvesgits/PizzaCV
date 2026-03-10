@@ -1,4 +1,4 @@
-# PizzaCV
+<img src="Assets/logo.jpeg" width="60%" alt="Project logo"></img>
 
 ---
 
