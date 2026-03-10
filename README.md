@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assets/logo1440x1440-README-GitHub.png" width="12%">
   <br>
 </p>
